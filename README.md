@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # automationexercise_website_full_testing_portfolio
 
 ## 📌 Project Overview
@@ -39,26 +39,9 @@ This project is a comprehensive automation testing portfolio for the [Automation
 - **Mocha/Chai** for assertions
 - **JavaScript (ES6)**
 
-## 📁 Project Structure
-```
-automationexercise_website_full_testing_portfolio/
-│
-├── cypress/
-│   ├── e2e/
-│   │   ├── api_tests/               # API test cases
-│   │   ├── loginTests/             # Login-related E2E test cases
-│   │   ├── registrationTests/      # Registration-related E2E test cases
-│   │   └── ...                     # Other grouped test cases
-│
-├── cypress.config.js              # Cypress configuration file
-├── package.json                   # Project dependencies and scripts
-├── README.md                      # Project documentation
-└── node_modules/                  # Node.js dependencies (auto-generated)
-```
+🚀 Getting Started
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
+ 1. Clone the Repository
 ```bash
 git clone https://github.com/Mantvis-gif/automationexercise_website_full_testing_portfolio.git
 cd automationexercise_website_full_testing_portfolio
@@ -91,7 +74,7 @@ This project currently covers:
 - 📡 API test validations
 - ... and more!
 
-> Over **20+ test cases** implemented and counting!
+> Over **20+ test cases** implemented!
 
 ## 📈 Future Improvements
 - Add test result reports (Allure or Mochawesome)
@@ -100,7 +83,7 @@ This project currently covers:
 
 ## 👤 Author
 Mantvis-gif  
-📧 [Your email or GitHub profile link]
+📧 Mantvydasgilius@gmail.com
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
