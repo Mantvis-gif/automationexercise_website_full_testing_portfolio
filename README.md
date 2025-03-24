@@ -19,9 +19,6 @@ This project is part of a final test automation portfolio. It includes automated
 - Page Object Model (POM)
 - GitHub Actions (CI/CD)
 
-## 📁 Project Structure
-
-
 ## 🚀 How to Run Tests Locally
 
 ### 1. Clone the repository
